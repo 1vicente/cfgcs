@@ -1,1 +1,1 @@
--novid -high  -tickrate 128 
+-novid -high  -tickrate 128 .
