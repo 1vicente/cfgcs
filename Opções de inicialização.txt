@@ -1,1 +1,1 @@
--novid -high  -tickrate 128 .
+-tickrate 128 -novid -high  -refresh 144 -freq 144
