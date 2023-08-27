@@ -1,1 +1,1 @@
--tickrate 128 +exec vicente1.cfg -novid -high -refresh 144 -freq 144
+-tickrate 128 +exec vicente1.cfg -novid -high -refresh 144 -freq 144 -r_dynamic 0
